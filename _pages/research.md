@@ -10,25 +10,25 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 (Xu ea. 2018, 2022). In addition, we detect
 141 clusters with XMM-SEVRS data, named as XVXGC catalog (Xu ea. 2024b).</br>
     * The whole XVXGC catalog is available at [here](https://github.com/wwxu/xvxgc.github.io)
-		* The whole RXGCC catalog is available at [here](https://github.com/wwxu/rxgcc.github.io/blob/master/table_rxgcc.fits)
-		   * The multiple bands information for each RXGCC cluster are listed [here](https://github.com/wwxu/rxgcc.github.io)
+	* The whole RXGCC catalog is available at [here](https://github.com/wwxu/rxgcc.github.io/blob/master/table_rxgcc.fits)
+	* The multiple bands information for each RXGCC cluster are listed [here](https://github.com/wwxu/rxgcc.github.io)
 
 <figure>
 	<img src="../image/extml.png" alt="-" style="width:300px">
 	<figcaption> Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane. </figcaption>
-	</figure>
+</figure>
 		
-		<figure>
-			<img src="../image/gc_sky.png" alt="-" style="width:300px">
-		<figcaption>Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </figcaption>
-		</figure>
+<figure>
+	<img src="../image/gc_sky.png" alt="-" style="width:300px">
+	<figcaption>Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </figcaption>
+</figure>
 			
-		<figure>
-			<img src="../image/gc1.png" alt="-"  style="width:300px">
-			<figcaption>Fig. A RXGCC cluster as an example. RASS photon images (left), optical images, integrated count rates profiles, 
+<figure>
+	<img src="../image/gc1.png" alt="-"  style="width:300px">
+	<figcaption>Fig. A RXGCC cluster as an example. RASS photon images (left), optical images, integrated count rates profiles, 
 				and spectroscopic redshift histograms (right) for the galaxy groups in our pilot sample. 
 				The optical images are from SDSS (composed of <em>g, r, i</em> bands) </figcaption>
-		</figure>
+</figure>
 
 gglens of massive halos
 =====
@@ -38,16 +38,18 @@ lensing method, using shear catalog of the Dark Energy Camera Legacy Survey (DEC
 and CMASS catalogs. We fit the measured c-M relation, and find an upturn is favored over a simple power-law model. 
 Our measurement provides important information for the recent argument of massive cluster formation process. (Xu ea. 2021)</br>
 
-          <figure>
-			<img src="../image/cm.png" alt="-"  style="width:300px">
-			<figcaption>Fig. The stacked signal and model of the weak lensing of clusters. We detect the upturn of the mass-concentration relation predicted by Klypin ea. 2016. </figcaption>
-		</figure>
-							We also made the systematic measurement of the splashback radius for halos covering the largest 
-								mass range and largest redshift range, and find a consistent result with the simulation. (Xu ea. 2024a)</br>
-								<figure>
-			<img src="../image/rsp.png" alt="-"  style="width:300px">
-			<figcaption>Fig. The measured splashback radius increases with the halo mass, and peak height. But this tendancy is less obvious for the splashback radius normalized by R200. </figcaption>
-		</figure>
+<figure>
+	<img src="../image/cm.png" alt="-"  style="width:300px">
+	<figcaption>Fig. The stacked signal and model of the weak lensing of clusters. We detect the upturn of the mass-concentration relation predicted by Klypin ea. 2016. </figcaption>
+</figure>
+
+* We also made the systematic measurement of the splashback radius for halos covering the largest 
+mass range and largest redshift range, and find a consistent result with the simulation. (Xu ea. 2024a)</br>
+
+<figure>
+	<img src="../image/rsp.png" alt="-"  style="width:300px">
+	<figcaption>Fig. The measured splashback radius increases with the halo mass, and peak height. But this tendancy is less obvious for the splashback radius normalized by R200. </figcaption>
+</figure>
 
 Optical identification galaxy clusters
 ======
@@ -59,11 +61,10 @@ a criterion to identify clusters. From a sky area of 275 deg2 of the Sloan Digit
 Survey Stripe 82 region, we identify 302 clusters in the redshift range of 0.1-0.35, 247 
 (82%) of which are previously known SDSS clusters. (Xu ea. 2014)</br>
 
-  <figure>
-			<img src="../image/gc_strip82.png" alt="-"  style="width:300px">
-			<figcaption>Fig. Distributions of redshift and scaled richness for the 302 identified clusters. </figcaption>
-		</figure>
-
+<figure>
+	<img src="../image/gc_strip82.png" alt="-"  style="width:300px">
+	<figcaption>Fig. Distributions of redshift and scaled richness for the 302 identified clusters. </figcaption>
+</figure>
 
 X-ray spectra analysis of AGN
 =====
@@ -71,7 +72,7 @@ X-ray spectra analysis of AGN
 from the deep Chandra observation of the low-luminosity Compton-thick AGN in M51. 
 The hard X-ray continuum of M51 from Chandra and NuSTAR confirms the Compton-thick nature of the nucleus of M51. (Xu ea. 2015)</br>
 
-    <figure>
-			<img src="../image/M51.png" alt="-"  style="width:300px">
-			<figcaption>Fig. The model of Vapec+MYTorus+Gaussians fitted to the Chandra spectrum of the nucleus of M51. </figcaption>
-		</figure>
+<figure>
+	<img src="../image/M51.png" alt="-"  style="width:300px">
+	<figcaption>Fig. The model of Vapec+MYTorus+Gaussians fitted to the Chandra spectrum of the nucleus of M51. </figcaption>
+</figure>
