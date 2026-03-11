@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/profile_wwxu.png"
+  avatar           : "profile.png"
   name             : "Weiwei Xu"
   pronouns         : "she/her"  
   bio              : "Assistant researcher at NAOC, interested in galaxy clusters, weak lensing, large-scale structure"
