@@ -50,7 +50,6 @@ Research fundings
 Academic Service
 ======
 * Reviewed for Journal: Astronomy & Astrophysics (A&A)
-* Reviewed for Chandra observation proposal
 
 Publications
 ======
