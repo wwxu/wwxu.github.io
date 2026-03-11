@@ -71,9 +71,9 @@ Publications
     * 8. An efficient method to identify galaxy clusters by using SuperCOSMOS, 2MASS and WISE data (Xu, W., Wen, Z., et al. 2014, Science China Physics, Mechanics, and Astronomy, 57, 2168)  [link](https://ui.adsabs.harvard.edu/abs/2014SCPMA..57.2168X/abstract)
 
 * Published papers as co-author:
-    * 1. Mock Observations for the CSST Mission: Multi-Channel Imager–The Cluster Field (Xie, Y., Chen, X., […], Xu, W., et al., 2026, RAA, 26, 024007)  [link](https://ui.adsabs.harvard.edu/abs/2026RAA....26b4007X/abstract)
-    * 2. A catalogue of 3403 galaxy clusters derived from XMM-Newton X-ray images (Yuan, Z., Wen, Z., Xu, W. & Han, J., 2025, mnras, 543, 3698)  [link](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.3698Y/abstract)
-    * 3. XMM-Newton follow-up of a sample of apparent low surface brightness galaxy groups detected in the ROSAT All-Sky Survey (Spinelli, C., Veronica, A., […], Xu, W., et al. 2025, a&a, 700, A220)  [link](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.220S/abstract)
+    ** 1. Mock Observations for the CSST Mission: Multi-Channel Imager–The Cluster Field (Xie, Y., Chen, X., […], Xu, W., et al., 2026, RAA, 26, 024007)  [link](https://ui.adsabs.harvard.edu/abs/2026RAA....26b4007X/abstract)
+    ** 2. A catalogue of 3403 galaxy clusters derived from XMM-Newton X-ray images (Yuan, Z., Wen, Z., Xu, W. & Han, J., 2025, mnras, 543, 3698)  [link](https://ui.adsabs.harvard.edu/abs/2025MNRAS.543.3698Y/abstract)
+    # 3. XMM-Newton follow-up of a sample of apparent low surface brightness galaxy groups detected in the ROSAT All-Sky Survey (Spinelli, C., Veronica, A., […], Xu, W., et al. 2025, a&a, 700, A220)  [link](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.220S/abstract)
     * 4. Assessing mass-loss and stellar-to-halo mass ratio of satellite galaxies: a galaxy-galaxy lensing approach utilizing DECaLS DR8 data (Wang, C., Li, R., Shan, H., Xu, W., Yao, J., Jing, Y., Gao, L., et al., 2024, mnras, 528, 2728)  [link](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.2728W/abstract)
     * 5. MaNGA DynPop - IV. Stacked total density profile of galaxy groups and clusters from combining dynamical models of integral-field stellar kinematics and galaxy-galaxy lensing (Wang, C., Li, R., Zhu, K., Shan, H., Xu, W., Cappellari, M., Gao, L., et al., 2024, mnras, 527, 1580)  [link](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1580W/abstract)
     * 6. Spectroscopic Confirmation of Two X-Ray Diffuse and Massive Galaxy Clusters at Low Redshift (Chen, K., Xu, W., & Jiang, L., 2022, apj, 940, 79)  [link](https://ui.adsabs.harvard.edu/abs/2022ApJ...940...79C/abstract)
@@ -89,9 +89,6 @@ Observation proposals
 
 Selected talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
 * eROSITA & HUBS Scientific Exploitation Workshop 2024, Mar. 2024, 20min talk, “Detection of X-ray extended clusters  & Research of dark matter halos”
 * NAOC workshop of  physics of galaxy clusters, July 2024, 45min talk of “X-ray galaxy clusters with low surface-brightness profile”
 * Tsinghua DOA lunch talk, Nov. 2024, 40min talk, “The research of dark matter halo with galaxy-galaxy lensing method”
@@ -106,10 +103,6 @@ Selected talks
 
 Tutorials 
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 * X-ray astronomy, Uni-Bonn, 2018 
 * high-energy astrophysics, NAOC, 2015
 * high-energy astrophysics, PKU, 2015
