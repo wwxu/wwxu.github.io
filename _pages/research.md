@@ -8,19 +8,19 @@ X-ray identification of galaxy cluster
 * Using a dedicated source detection and characterization algorithm optimized for extended sources,
 we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named as RXGCC catalog 
 (Xu ea. 2018, 2022). In addition, we detect
-141 clusters with XMM-SEVRS data, named as XVXGC catalog (Xu ea. 2024b).</br>
+141 clusters with XMM-SEVRS data, named as XVXGC catalog (Xu ea. 2024b).
     * The whole XVXGC catalog is available at [here](https://github.com/wwxu/xvxgc.github.io)
 	* The whole RXGCC catalog is available at [here](https://github.com/wwxu/rxgcc.github.io/blob/master/table_rxgcc.fits)
 	* The multiple bands information for each RXGCC cluster are listed [here](https://github.com/wwxu/rxgcc.github.io)
 
 <figure>
-	<img src="../image/extml.png" alt="-" style="width:300px">
-	<figcaption> Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane. </figcaption>
+	<img src="../image/extml.png" alt="-" style="width:1000">
+	<figcaption> * Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane. </figcaption>
 </figure>
 		
 <figure>
-	<img src="../image/gc_sky.png" alt="-" style="width:300px">
-	<figcaption>Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </figcaption>
+	<img src="../image/gc_sky.png" alt="-" style="width:1000">
+	<figcaption> * Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </figcaption>
 </figure>
 			
 <figure>
