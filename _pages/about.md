@@ -1,11 +1,4 @@
----
-permalink: /
-title: "."
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 Hi there, I'm Weiwei XU (徐伟伟, pronounced like Wiwi Shu)
 ======
