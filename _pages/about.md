@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
-
 * Welcome to my personal page. I am currently Assistant researcher at National Astronomical Observatories, 
 Chinese Academy of Sciences (NAOC). My current research interest focus on the 
 X-ray detection and multiple wavelength researches of galaxy clusters, and dark matter halo 
