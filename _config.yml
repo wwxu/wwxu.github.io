@@ -23,7 +23,7 @@ repository               : "wwxu/wwxu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_wwxu.png"
   name             : "Weiwei Xu"
   pronouns         : "Assistant researcher"  
   bio              : "galaxy clusters, weak lensing, large-scale structure"
