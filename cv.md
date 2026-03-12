@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Please check the whole CV file [PDF](files/CV_wwxu.pdf). 
+---
 
 Education
 ======
