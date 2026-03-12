@@ -1,4 +1,6 @@
-
+---
+title: ""
+---
 
 X-ray identification of galaxy cluster
 =====
