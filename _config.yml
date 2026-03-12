@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Weiwei Xu"
   pronouns         : "she/her"  
-  bio              : "Assistant researcher at NAOC, interested in galaxy clusters, weak lensing, large-scale structure"
-  location         : "Beijing, China"
+  bio              : "Assistant researcher, galaxy clusters, weak lensing, large-scale structure"
   employer         : "NAOC, CAS"
+  location         : "Beijing, China"
   uri              : # URL
   email            : "wwxu@pku.edu.cn" 
 
@@ -41,7 +41,7 @@ author:
 
 
   # Repositories and software development
-  github           : "academicpages"  
+  github           : "wwxu"  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
