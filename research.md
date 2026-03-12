@@ -10,11 +10,12 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 	* The whole RXGCC catalog is available at [here](https://github.com/wwxu/rxgcc.github.io/blob/master/table_rxgcc.fits)
 	* The multiple bands information for each RXGCC cluster are listed [here](https://github.com/wwxu/rxgcc.github.io)
 
-## Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane. 
+<figure>
 <div align="center">
 <img src="../image/extml.png" alt="-" width="700">
-<p> xxx </p>
+<p> Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane.  </p>
 </div>
+</figure>
 
 		
 ## Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV.
