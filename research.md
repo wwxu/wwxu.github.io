@@ -1,4 +1,12 @@
 
+---
+layout: archive
+title: "Research"
+permalink: /
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 X-ray identification of galaxy cluster
 =====
@@ -20,14 +28,16 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 
 
 <figure>
-	<img src="../image/gc_sky.png" alt="-" width:="700">
+<div align="center">
+	<img src="../image/gc_sky.png" alt="-" width="350">
 	<p> Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </p>
+	</div>
 </figure>
 
 
 <figure>
 <div align="center">
-	<img src="../image/gc1.png" alt="-"  width:="700">
+	<img src="../image/gc1.png" alt="-"  width="350">
 	<p> Fig. A RXGCC cluster as an example. RASS photon images (left), optical images, integrated count rates profiles, and spectroscopic redshift histograms (right) for the galaxy groups in our pilot sample. The optical images are from SDSS (composed of <em>g, r, i</em> bands). </p>
 	</div>
 </figure>
@@ -42,7 +52,7 @@ Our measurement provides important information for the recent argument of massiv
 
 <figure>
 <div align="center">
-	<img src="../image/cm.png" alt="-"  width="700">
+	<img src="../image/cm.png" alt="-"  width="350">
 	<p> Fig. The stacked signal and model of the weak lensing of clusters. We detect the upturn of the mass-concentration relation predicted by Klypin ea. 2016. </p>
 	</div>
 </figure>
@@ -69,7 +79,7 @@ Survey Stripe 82 region, we identify 302 clusters in the redshift range of 0.1-0
 
 <figure>
 <div align="center">
-	<img src="../image/gc_strip82.png" alt="-"  width="700">
+	<img src="../image/gc_strip82.png" alt="-"  width="350">
 	<p> Fig. Distributions of redshift and scaled richness for the 302 identified clusters. </p>
 	</div>
 </figure>
@@ -82,7 +92,7 @@ The hard X-ray continuum of M51 from Chandra and NuSTAR confirms the Compton-thi
 
 <figure>
 <div align="center">
-	<img src="../image/M51.png" alt="-"  width="700">
+	<img src="../image/M51.png" alt="-"  width="350">
 	<p>Fig. The model of Vapec+MYTorus+Gaussians fitted to the Chandra spectrum of the nucleus of M51. </p>
 	</div>
 </figure>
