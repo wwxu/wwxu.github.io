@@ -1,11 +1,9 @@
 
 ---
-
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-
 ---
 
 X-ray identification of galaxy cluster
