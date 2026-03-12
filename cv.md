@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Please check the whole CV file [PDF](files/CV_wwxu.pdf). 
+
 ---
 
 Education
@@ -24,6 +25,8 @@ Education
 * Sep. 2007 - Jun. 2011 : Bachelor in applied physics
     * Shandong University (SDU), Weihai, China
 
+---
+
 Work experience
 ======
 * May 2022- Now: Assistant researcher
@@ -32,7 +35,9 @@ Work experience
 * May 2019-Apr. 2022: Post-doc 
     * Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China
     * Collaborated advisor: Prof. Linhua Jiang
-  
+
+---
+
 Research interest
 ======
 * galaxy clusters 
@@ -42,15 +47,21 @@ Research interest
 * X-ray astronomy
 * optical observation
 * galaxy
-    
+
+---
+
 Research fundings
 ======
 * NSFC young scientist program, 300k RMB, PI, 2023-2025, “the identification of very extended galaxy clusters with XMM-COSMOS and CDF-S data”
 * National Key R&D Program, 4800k RMB, co-I, 2022-2027, “Conducting precision measurements of the dark matter universe using CSST data"
 
+---
+
 Academic Service
 ======
 * Reviewed for Journal: Astronomy & Astrophysics (A&A)
+
+---
 
 Publications
 ======
@@ -82,11 +93,15 @@ Publications
     * (8). The clumpy torus around type II AGN as revealed by X-ray fluorescent lines (Liu, J., Liu, Y., […], Xu, W.,  et al. 2016, mnras, 459, L100) [link](https://ui.adsabs.harvard.edu/abs/2016MNRAS.459L.100L/abstract)
     * (9). The Spin of The Black Hole in the X-ray Binary Nova Muscae 1991 (Chen, Z., Gou, L., […], Xu, W.,  et al. 2016, apj, 825, 45) [link](https://ui.adsabs.harvard.edu/abs/2016ApJ...825...45C/abstract)
 
+---
+
 Observation proposals
 ======
 * EP - FXT, 30ksec, ID: Cycle2-0045, approved, 2025, PI
 * AstroSat AO-12, 119ksec, ID: A10-065, observed, 2021, PI
 * XMM-Newton AO-19, 60ksec, ID:86388, observed, 2019, Co-I
+
+---
 
 Selected talks
 ======
@@ -102,11 +117,15 @@ Selected talks
 * NAOC Seminar, Dec. 2017, talk (45+15 min)
 * NJU Seminar, Dec. 2017, talk (45+15 min)
 
+---
+
 Tutorials 
 ======
 * X-ray astronomy, Uni-Bonn, 2018 
 * high-energy astrophysics, NAOC, 2015
 * high-energy astrophysics, PKU, 2015
+
+---
 
 Honors and awards
 ======
@@ -117,3 +136,5 @@ Honors and awards
 * 2010, NAOC Scholarships
 * 2009, National Encouragement scholarship 
 * 2007-2011, First scholarship three times and Second one for four times in Shandong University at Weihai
+
+---
