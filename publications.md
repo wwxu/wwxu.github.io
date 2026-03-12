@@ -1,17 +1,17 @@
----
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
----
+
 
 Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6RkURJNw9Rnw) for the whole list. 
+===
 ---
 
 * As of Jan. 2026, 17 published papers in total, 182 citations.
-     * 8 first-author/corresponding-author published papers; 
+  ===
+     * 8 first-author/corresponding-author published papers;
+       ===
      * 9 co-authored published papers;
-     * 2 first-author papers under review. 
+       ===
+     * 2 first-author papers under review.
+       ===
 
 ---
  
