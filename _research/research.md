@@ -1,7 +1,11 @@
 
 ---
 layout: default
-title: research of Weiwei XU
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 X-ray identification of galaxy cluster
@@ -20,7 +24,7 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 </figure>
 		
 <figure>
-	<img src="../image/gc_sky.png" alt="-" style="width:700">
+	<img src="../image/gc_sky.png" alt="-" style="width:350">
 	<figcaption> * Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </figcaption>
 </figure>
 			
@@ -40,7 +44,7 @@ and CMASS catalogs. We fit the measured c-M relation, and find an upturn is favo
 Our measurement provides important information for the recent argument of massive cluster formation process. (Xu ea. 2021)</br>
 
 <figure>
-	<img src="../image/cm.png" alt="-"  style="width:700">
+	<img src="../image/cm.png" alt="-"  style="width:350">
 	<figcaption>Fig. The stacked signal and model of the weak lensing of clusters. We detect the upturn of the mass-concentration relation predicted by Klypin ea. 2016. </figcaption>
 </figure>
 
@@ -63,7 +67,7 @@ Survey Stripe 82 region, we identify 302 clusters in the redshift range of 0.1-0
 (82%) of which are previously known SDSS clusters. (Xu ea. 2014)</br>
 
 <figure>
-	<img src="../image/gc_strip82.png" alt="-"  style="width:700">
+	<img src="../image/gc_strip82.png" alt="-"  style="width:350">
 	<figcaption>Fig. Distributions of redshift and scaled richness for the 302 identified clusters. </figcaption>
 </figure>
 
@@ -74,6 +78,6 @@ from the deep Chandra observation of the low-luminosity Compton-thick AGN in M51
 The hard X-ray continuum of M51 from Chandra and NuSTAR confirms the Compton-thick nature of the nucleus of M51. (Xu ea. 2015)</br>
 
 <figure>
-	<img src="../image/M51.png" alt="-"  style="width:700">
+	<img src="../image/M51.png" alt="-"  style="width:350">
 	<figcaption>Fig. The model of Vapec+MYTorus+Gaussians fitted to the Chandra spectrum of the nucleus of M51. </figcaption>
 </figure>
