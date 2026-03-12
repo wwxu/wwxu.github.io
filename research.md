@@ -1,4 +1,5 @@
 
+
 X-ray identification of galaxy cluster
 =====
 
@@ -17,11 +18,10 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 	</div>
 </figure>
 
+
 <figure>
-<div align="center">
 	<img src="../image/gc_sky.png" alt="-" width:="700">
 	<p> Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </p>
-	</div>
 </figure>
 
 
