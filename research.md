@@ -12,14 +12,14 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 
 <figure>
 <div align="center">
-<img src="../image/extml.png" alt="-" width="700">
-<p> Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane.  </p>
-</div>
+	<img src="../image/extml.png" alt="-" width="700">
+	<p> Fig. Selection criteria for extended sources. The selection is performed in the extension likelihood - extent plane.  </p>
+	</div>
 </figure>
 
 <figure>
 <div align="center">
-<img src="../image/gc_sky.png" alt="-" width:="700">
+	<img src="../image/gc_sky.png" alt="-" width:="700">
 	<p> Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </p>
 	</div>
 </figure>
