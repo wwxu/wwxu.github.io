@@ -3,9 +3,9 @@ title: "Talk 1 on Relevant Topic in Your Field"
 collection: publications
 type: "Publications"
 permalink: /publications/publications
-venue: "-"
-date: -
-location: "-"
+venue: ""
+date: 
+location: ""
 ---
 
 Publications xxx
