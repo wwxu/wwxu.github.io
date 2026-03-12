@@ -1,19 +1,15 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-Publications xxx
+Publications
 ======
+
+Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6RkURJNw9Rnw) for the complete list. 
+---
 
 * As of Jan. 2026, 17 published papers in total, 182 citations.
      * 8 first-author/corresponding-author published papers; 
      * 9 co-authored published papers;
-     * 2 first-author papers under review.
+     * 2 first-author papers under review. 
+---
  
 * Published papers as first/corresponding author: 
     * (1). A Comparative Study of Halo Mass Estimates from Group Catalogs and Lensing Signals (Chen, X., Xu, W., Li, R., et al. 2025, apj, 990, 171)  [link](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..171C/abstract)
@@ -26,6 +22,8 @@ Publications xxx
     * (7). X-ray fluorescent lines from the Compton-thick AGN in M51 (Xu, W., Liu, Z., et al. 2016, 
     mnras, 455, L26)  [link](https://ui.adsabs.harvard.edu/abs/2016MNRAS.455L..26X/abstract)
     * (8). An efficient method to identify galaxy clusters by using SuperCOSMOS, 2MASS and WISE data (Xu, W., Wen, Z., et al. 2014, Science China Physics, Mechanics, and Astronomy, 57, 2168)  [link](https://ui.adsabs.harvard.edu/abs/2014SCPMA..57.2168X/abstract)
+
+---
 
 * Published papers as co-author:
     * (1). Mock Observations for the CSST Mission: Multi-Channel Imager–The Cluster Field (Xie, Y., Chen, X., […], Xu, W., et al., 2026, RAA, 26, 024007)  [link](https://ui.adsabs.harvard.edu/abs/2026RAA....26b4007X/abstract)
