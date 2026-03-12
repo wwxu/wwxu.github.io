@@ -1,14 +1,12 @@
 
-Publications
-======
-
-Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6RkURJNw9Rnw) for the complete list. 
+Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6RkURJNw9Rnw) for the whole list. 
 ---
 
 * As of Jan. 2026, 17 published papers in total, 182 citations.
      * 8 first-author/corresponding-author published papers; 
      * 9 co-authored published papers;
      * 2 first-author papers under review. 
+
 ---
  
 * Published papers as first/corresponding author: 
@@ -35,3 +33,5 @@ Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6f
     * (7). Ram Pressure Stripping of HI-rich Galaxies Infalling into Massive Clusters (Wang, J., Xu, W., et al. 2020, apj, 903(2):103)  [link](https://ui.adsabs.harvard.edu/abs/2020ApJ...903..103W/abstract)
     * (8). The clumpy torus around type II AGN as revealed by X-ray fluorescent lines (Liu, J., Liu, Y., […], Xu, W.,  et al. 2016, mnras, 459, L100) [link](https://ui.adsabs.harvard.edu/abs/2016MNRAS.459L.100L/abstract)
     * (9). The Spin of The Black Hole in the X-ray Binary Nova Muscae 1991 (Chen, Z., Gou, L., […], Xu, W.,  et al. 2016, apj, 825, 45) [link](https://ui.adsabs.harvard.edu/abs/2016ApJ...825...45C/abstract)
+
+---
