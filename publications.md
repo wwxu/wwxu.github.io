@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Please check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6RkURJNw9Rnw) for the whole list. 
