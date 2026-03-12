@@ -2,6 +2,8 @@
 title: ""
 ---
 
+---
+
 X-ray identification of galaxy cluster
 =====
 
@@ -23,7 +25,7 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 
 <figure>
 <div align="center">
-	<img src="../image/gc_sky.png" alt="-" width="350">
+	<img src="../image/gc_sky.png" alt="-" width="200">
 	<p> Fig. 944 RXGCC clusters detected with the X-ray data from ROSAT All-Sky Survey in [0.5-2.0] keV. </p>
 	</div>
 </figure>
@@ -35,6 +37,8 @@ we detect 944 clusters with X-ray data from the ROSAT All-Sky Survey data, named
 	<p> Fig. A RXGCC cluster as an example. RASS photon images (left), optical images, integrated count rates profiles, and spectroscopic redshift histograms (right) for the galaxy groups in our pilot sample. The optical images are from SDSS (composed of <em>g, r, i</em> bands). </p>
 	</div>
 </figure>
+
+---
 
 gglens of massive halos
 =====
@@ -61,6 +65,8 @@ mass range and largest redshift range, and find a consistent result with the sim
 	</div>
 </figure>
 
+---
+
 Optical identification galaxy clusters
 ======
 * We present an efficient method for detecting galaxy clusters by combining the WISE data with 
@@ -77,6 +83,8 @@ Survey Stripe 82 region, we identify 302 clusters in the redshift range of 0.1-0
 	<p> Fig. Distributions of redshift and scaled richness for the 302 identified clusters. </p>
 	</div>
 </figure>
+
+---
 
 X-ray spectra analysis of AGN
 =====
