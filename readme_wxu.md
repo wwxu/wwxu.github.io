@@ -11,8 +11,10 @@ cv.md
 files/CV_wwxu.pdf, the PDF version of CV
 
 research.md
-image/*, plots of “”research page 
+image/*, plots of "research page"
 
 publications.md
+'files/bib_wxu.bib is the bib of wwxu's pub', not used 
+
 talks.md, with pdf links from zenodo
 link.md
