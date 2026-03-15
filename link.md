@@ -7,7 +7,8 @@
 [nature](https://www.nature.com/nature/articles?type=news-and-views),
 [NatureAstronomy](https://www.nature.com/subjects/astronomy-and-astrophysics)
 [Science](http://science.sciencemag.org/collection/astronomy),
-[ARAA](https://www.annualreviews.org/journal/astro), [A&A](https://www.aanda.org/),
+[ARAA](https://www.annualreviews.org/journal/astro),
+[A&A](https://www.aanda.org/),
 [A&A-submit](https://mms-aanda.obspm.fr/is/aa/submit_a_paper.php?type_article=article),
 [AAS](https://jobregister.aas.org/),
 [ApJ](https://iopscience.iop.org/journal/0004-637X),
@@ -16,6 +17,7 @@
 [RAA-submit](https://mc03.manuscriptcentral.com/raa)
 [SCPMA](https://www.sciengine.com/SCPMA/home),
 [arxiv](https://arxiv.org/archive/astro-ph),
+[arxiv-ddl](https://arxiv.org/localtime),
 [SciX](https://scixplorer.org/),
 [GoogleScholar](https://scholar.google.com/schhp?as_sdt=0%2C5&hl=en),
 [aaas](https://www.aaas.org/news),
@@ -24,41 +26,29 @@
 [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/),
 [dbdata](https://dbdata.com/search/), [sci-hub](https://sci-hub.se/),
 [天文学进展](http://center.shao.ac.cn/twxjz/index.htm), [天文学报](http://www.twxb.org/twxb/home),
-[中国科学](https://www.scichina.com/), 
+[中国科学](https://www.scichina.com/),
+[Authorea](https://www.authorea.com/),
+[ConnectedPapers](https://www.connectedpapers.com/),
+[Zotero](https://www.zotero.org/),
+[NASA-ScientificVisualStudio](https://svs.gsfc.nasa.gov/),
+[NA_highlight](https://www.nature.com/natastron/articles?type=research-highlight),
+[HST_Live](https://spacetelescopelive.org/hubble?obsId=01K0DFKGHZAWCHHA77FDTWH33S),
+[AstronomersTelegram](https://www.astronomerstelegram.org/),
+[GCN](https://gcn.nasa.gov/circulars),
+[astro2020](https://ui.adsabs.harvard.edu/public-libraries/uZ71y9jERUiiOpuDvrXNSg),
+[Euclid-Q1-Papers](https://www.cosmos.esa.int/web/euclid/q1-papers),
+[DESY3-cosmo-Papers](https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/),
+[LensFinder](https://nadc.china-vo.org/lensfinder/cluster/#/),
+[GalaxyMaze](https://nadc.china-vo.org/galaxymaze/dist/?11e335a5-29aa-4d1a-b566-0203102daf38#/home/first),
+[GalaxyCircus](https://nadc.china-vo.org/galaxycircus/dist1/#/home/first),
+[Cosviewer-G-Types](https://cosviewer.com/en),
 [中科院期刊分区](https://chaxin.csust.edu.cn/index.php?action=chaxiner&m=cas&qy=1),
-
-[Au](https://www.authorea.com/)
-[ST](http://www.skyandtelescope.com/)
-[NS](https://www.newscientist.com/article-type/astrophile/)
-[Astrobites](https://astrobites.org/)
-[SA](http://www.scientificamerican.com/physics/)
-[BBC](http://www.bbc.com/news/world_radio_and_tv)
-[果壳](http://www.guokr.com/)
-[Astr](http://www.astronomy.com/)
-[豆瓣](https://www.douban.com/)
-[AstrPic](http://apod.nasa.gov/apod/astropix.html)
-[科学网](http://blog.sciencenet.cn/)
-[YUMPU](https://www.yumpu.com/en)
-[Cosmology | Science News](https://www.sciencenews.org/topic/cosmology)
-[FreeAstro](https://free-astro.org/index.php?title=Main_Page)
-[arxiv-ddl](https://arxiv.org/localtime)
-[Scholarcy](https://library.scholarcy.com/try)
-[Connected Papers](https://www.connectedpapers.com/)
-[Zotero](https://www.zotero.org/)
-[NASA_ScientificVisualStudio](https://svs.gsfc.nasa.gov/)
-[STScI_news](https://www.stsci.edu/news)
-[NA_highlight](https://www.nature.com/natastron/articles?type=research-highlight)
-[HST_Live](https://spacetelescopelive.org/hubble?obsId=01K0DFKGHZAWCHHA77FDTWH33S)
-
-[ATel网站](https://www.astronomerstelegram.org/)
-[GCN暂现源触发网](https://gcn.nasa.gov/circulars)
-[astro2020](https://ui.adsabs.harvard.edu/public-libraries/uZ71y9jERUiiOpuDvrXNSg)
-[euclid_Q1_papers](https://www.cosmos.esa.int/web/euclid/q1-papers)
-[DESY3_paper](https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/)
-[lensfinder](https://nadc.china-vo.org/lensfinder/cluster/#/)
-[GalaxyMaze](https://nadc.china-vo.org/galaxymaze/dist/?11e335a5-29aa-4d1a-b566-0203102daf38#/home/first)
-[GalaxyCircus](https://nadc.china-vo.org/galaxycircus/dist1/#/home/first)
-[Cosviewer_G_types](https://cosviewer.com/en)
+[Sky&Telescope](http://www.skyandtelescope.com/),
+[Astrobites](https://astrobites.org/),
+[果壳](http://www.guokr.com/),
+[Astronomy-Magizine](http://www.astronomy.com/),
+[Astronomy-Picture-of-the-day](http://apod.nasa.gov/apod/astropix.html),
+[科学网](http://blog.sciencenet.cn/).
 
 * Institutes:
   ** [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/)
