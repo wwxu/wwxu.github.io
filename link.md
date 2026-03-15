@@ -1,6 +1,6 @@
 **Useful Links**
 
-* Journals:
+* Papers:
 [springer](https://link.springer.com/),
 [wiley](https://onlinelibrary.wiley.com/),
 [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks),
@@ -48,19 +48,17 @@
 [果壳](http://www.guokr.com/),
 [Astronomy-Magizine](http://www.astronomy.com/),
 [Astronomy-Picture-of-the-day](http://apod.nasa.gov/apod/astropix.html),
-[科学网](http://blog.sciencenet.cn/).
+[科学网](http://blog.sciencenet.cn/),
+[AstroBackyard](https://astrobackyard.com).
 
-* Institutes:
-  ** [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/)
-  ** [NASA](https://www.nasa.gov/), [NRAO](https://science.nrao.edu/), [ESO](https://www.eso.org/public/).
+* Institutes: [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/), [NASA](https://www.nasa.gov/), [NRAO](https://science.nrao.edu/), [ESO](https://www.eso.org/public/).
 
 * Observations:
-  ** [lofar](https://www.lofar-surveys.org/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/), [fast](https://fast.bao.ac.cn/)
-  ** [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [jwst](https://www.nasa.gov/mission_pages/webb/main/index.html), [lamost](http://www.lamost.org/public/), [csst](http://nao.cas.cn/csst/)
-  ** [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/)
-  ** [hxmt](http://hxmtweb.ihep.ac.cn/), [ep](https://ep.bao.ac.cn/ep/), [hubs](http://hubs.phys.tsinghua.edu.cn/)
-  ** [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/)
-  ** [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).
+  * radio: [lofar](https://www.lofar-surveys.org/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/), [fast](https://fast.bao.ac.cn/)
+  * opt: [sdss](https://www.sdss.org/), [hst](https://www.nasa.gov/mission_pages/hubble/main/index.html), [jwst](https://www.nasa.gov/mission_pages/webb/main/index.html), [lamost](http://www.lamost.org/public/), [csst](http://nao.cas.cn/csst/)
+  * X-ray: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/), [hxmt](http://hxmtweb.ihep.ac.cn/), [ep](https://ep.bao.ac.cn/ep/), [hubs](http://hubs.phys.tsinghua.edu.cn/)
+  * Gamma-ray: [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/)
+  * Gravitational Wave: [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).
 
 
 * Lectures:
@@ -95,9 +93,45 @@
 [PythonBK](http://old.sebug.net/paper/python/index.html),
 [douban](https://www.douban.com/doulist/112364872/).
 
-* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/).
+* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skirt][https://skirt.ugent.be/root/_home.html].
 
-* Tools: [Overleaf](https://www.overleaf.com/project), [Sharelatex](https://sharelatex.cstcloud.cn/project), [WebPlotDigitizer](https://apps.automeris.io/wpd/)
+* Tools: [Overleaf](https://www.overleaf.com/project), [Sharelatex](https://sharelatex.cstcloud.cn/project),
+[WebPlotDigitizer](https://apps.automeris.io/wpd/), [web-to-ScanCode](https://cli.im/), [Equ-to-plot](https://www.desmos.com/calculator), 
+[Interal-online](https://www.wolframalpha.com/calculators/integral-calculator),
+[montage](http://montage.ipac.caltech.edu/docs/index.html), 
+[Kindle_syn](https://www.amazon.com/sendtokindle),
+[doodle](https://doodle.com/home),
+[PDFDrive](https://pdfdrive.to/en),
+[Kalvin-to-Kev](http://www.translatorscafe.com/cafe/EN/units-converter/energy/65-10/kelvin-kiloelectron-volt/), 
+[NH](http://heasarc.gsfc.nasa.gov/cgi-bin/Tools/w3nh/w3nh.pl),
+[FITSIO](https://heasarc.gsfc.nasa.gov/docs/software/fitsio/fitsio.html),
+[XrayLineEdge](http://skuld.bmsc.washington.edu/scatter/AS_periodic.html),
+[nm-ev](https://www.kmlabs.com/en/wavelength-to-photon-energy-calculator)
+[CompressPDF](https://www.ilovepdf.com/compress_pdf), 
+[JD-MJD](https://www.hko.gov.hk/sc/gts/time/basicterms-julianday.htm),
+[errorPropagation](https://foothill.edu/psme/daley/tutorials_files/10.%20Error%20Propagation.pdf#:~:text=Basic%20formula%20for%20propagation%20of%20errors%20The%20formulas,and%20v%20that%20have%20uncertainty.%20%3D%20f%20%28u%2Cv%2C...%29),
+[coordinateTransform](https://frostydrew.org/utilities.dc/convert/tool-eq_coordinates/),
+[GalaxyLine](http://astronomy.nmsu.edu/drewski/tableofemissionlines.html),
+[Unit](https://www.cfa.harvard.edu/~dfabricant/huchra/ay145/constants.html),
+[WorldTime](https://www.worldtimebuddy.com/),
+[html2md](https://html-to-markdown.com),
+[EDT](https://time.is/EDT),
+[hmsdms](https://www.astrouw.edu.pl/~jskowron/ra-dec/),
+[aladin\_m](https://aladin.u-strasbg.fr/java/AladinScriptManual.gml)
+[idl-mac](https://mp.weixin.qq.com/s?__biz=MjM5MzE1Nzc0NA%3D%3D&mid=2688143345&idx=1&sn=701b6563676e05f3315a171c45cb043e&chksm=835628eeb421a1f88628036177f921a3ae5ccf62db4d5940311e4ea8d862d4e098a338e6568d&mpshare=1&scene=1&srcid=0315kEPujN1L2LfX3WjS9Fof&pass_ticket=BHvSf%2FBjlQxhSIaJEf7HzhQHRBpyH6KpbIsE%2BM1ZmOLLeKFdWvY1tItIfSNmONQF#rd),
+[mac-install](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/),
+[untar](http://www.jb51.net/LINUXjishu/43356.html),
+[Mac-data-tranfer](https://support.apple.com/zh-cn/HT204350),
+[ChatGPT](https://openai.com/blog/chatgpt/),
+[Preview-note-recover](https://julihoh.github.io/pdf_annotation_fix/web-app/dist/index.html),
+
+
+
+[智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh),
+[通义](https://tongyi.aliyun.com/qianwen/),
+[熊猫搜索](https://xmsoushu.com/?ref=itotii#/),
+[鸠摩搜索](https://www.jiumodiary.com).
+
 
 * Coding: [Scipy](https://www.scipy.org/), [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/),[Matplot](https://matplotlib.org/),
 * 
