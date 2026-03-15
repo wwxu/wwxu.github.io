@@ -3,19 +3,10 @@
 * Papers:  [arxiv](https://arxiv.org/archive/astro-ph), [SciX](https://scixplorer.org/), [inspire](https://inspirehep.net/), [web of science](https://apps.webofknowledge.com/), [dbdata](https://dbdata.com/search/), [sci-hub](https://sci-hub.se/).
 
 * Journals:
-  ** [A&A](https://www.aanda.org/), [ApJ](https://iopscience.iop.org/journal/0004-637X) ([L](https://iopscience.iop.org/journal/2041-8205), [S](https://iopscience.iop.org/journal/0067-0049)), [MNRAS](https://academic.oup.com/mnras/advance-articles), [RAA](http://www.raa-journal.org/)
-  ** [PRD](https://journals.aps.org/prd/), [SCPMA](https://www.sciengine.com/SCPMA/home), [JCAP](https://iopscience.iop.org/journal/1475-7516), [JHEAP](https://www.sciencedirect.com/journal/journal-of-high-energy-astrophysics)
-  **  [Np](https://www.nature.com/nphys/), [Na](https://www.nature.com/natastron/)
-  ** [ARAA](https://www.annualreviews.org/journal/astro), [AAR](https://link.springer.com/journal/159), [NAR](https://www.sciencedirect.com/journal/new-astronomy-reviews)
-  **  [N](https://www.nature.com/), [S](https://www.science.org/). 
-
-* 中文期刊: [天文学进展](http://center.shao.ac.cn/twxjz/index.htm), [天文学报](http://www.twxb.org/twxb/home), [中国科学](https://www.scichina.com/), [物理与工程](https://gkwl.cbpt.cnki.net/WKD3/WebPublication/index.aspx?mid=GKWL). 
-
-* AS&PS: [CAS](http://astronomy.pmo.cas.cn/), [CPS](http://www.cps-net.org.cn/), [AAS](https://aas.org/), [APS](https://www.aps.org/), [EAS](https://eas.unige.ch/index.jsp), [IAU](https://www.iau.org/), [IUPAP](https://iupap.org/).
+  ** [Nature](https://www.nature.com/), [Science](https://www.science.org/), [NatureAstronomy](https://www.nature.com/natastron/), [ARAA](https://www.annualreviews.org/journal/astro), [A&A](https://www.aanda.org/), [ApJ](https://iopscience.iop.org/journal/0004-637X), [MNRAS](https://academic.oup.com/mnras/advance-articles), [RAA](http://www.raa-journal.org/), [SCPMA](https://www.sciengine.com/SCPMA/home), [天文学进展](http://center.shao.ac.cn/twxjz/index.htm), [天文学报](http://www.twxb.org/twxb/home), [中国科学](https://www.scichina.com/). 
 
 * Institutes:
-  ** [NAO](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/)
-  ** [NAOC](https://nadc.china-vo.org/)
+  ** [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/)
   ** [NASA](https://www.nasa.gov/), [NRAO](https://science.nrao.edu/), [ESO](https://www.eso.org/public/).
 
 * Observations:
@@ -27,12 +18,12 @@
   ** [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).
 
 * Codes:
-  ** [amrvac](http://amrvac.org/), [pluto](http://plutocode.ph.unito.it/), [zeus-mp](https://github.com/bwoshea/ZEUS-MP_2)
-  ** [bhac](https://bhac.science/), [athena++](https://princetonuniversity.github.io/athena/download.html), [ilgrmhd](http://astro.phys.wvu.edu/zetienne/ILGRMHD/index.html)
-  ** [ramses](https://bitbucket.org/rteyssie/ramses/src/master/), [enzo](https://enzo-project.org/), [arepo](https://arepo-code.org/)
-  ** [mesa](https://docs.mesastar.org/).
+  ** 
 
-* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skies & universes](http://skiesanduniverses.iaa.es/).
+* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/).
+
+
+
 
 * Lectures:
   ** [SHAOlectures](https://www.koushare.com/topic-hd/i/aar), [USTClectures](https://www.koushare.com/topicIndex/i/ustcastro), [NJUlectures](https://www.koushare.com/space/363505/home), [NAOClectures](https://www.newscctv.net/219news/matrix_detail.html?deptId=11471), [KIPT Program](https://www.kitp.ucsb.edu/programs/past), [KouShare](https://www.koushare.com), [Smartedu](https://www.smartedu.cn/), [iCourses](https://www.icourses.cn/home/), [MOOC](https://www.icourse163.org), [Netease](https://open.163.com/)
@@ -41,7 +32,7 @@
 
 * Courses: [USTC.course](https://catalog.ustc.edu.cn/plan); [USTC.course-club](https://www.icourse.club/course/), [ACGE](https://www.acge.org.cn/encyclopediaFront/enterEncyclopediaIndex).
 
-* Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/), [David Tong](http://www.damtp.cam.ac.uk/user/tong/teaching.html), [Fitzpatrick](http://farside.ph.utexas.edu/teaching.html), [SJTUphysics](http://phycai.sjtu.edu.cn/pub/webphy/index.html); [Frank.vdBosch](https://campuspress.yale.edu/vdbosch/); [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html), [Newman](http://websites.umich.edu/~mejn/cp/programs.html).
+* Handouts:  [Feynman](http://www.feynmanlectures.caltech.edu/info/),  [Bai&Murphy 1](http://i.astro.tsinghua.edu.cn/~xbai/), [2](https://lweb.cfa.harvard.edu/~namurphy/teaching.html); [Zingale](https://zingale.github.io/classes.html), [Newman](http://websites.umich.edu/~mejn/cp/programs.html).
 
 * Books: [springer](https://link.springer.com/), [wiley](https://onlinelibrary.wiley.com/), [cambridge](https://www.cambridge.org/core/what-we-publish/textbooks); [douban](https://www.douban.com/doulist/112364872/), [sciencereading](https://book.sciencereading.cn/shop/main/Login/shopFrame.do); [ERA](https://science.nrao.edu/opportunities/courses/era).
 
@@ -50,3 +41,49 @@
 * Coding: [Xue8](https://www.xue8nav.com); [Runoob](https://www.runoob.com/); [Yibai](https://www.yiibai.com/); [Python 1](https://www.python.org/), [2](http://scipy-lectures.org/); [Conda](https://anaconda.org/), [Scipy](https://www.scipy.org/); [Matplot](https://matplotlib.org/), [yt](https://yt-project.org/doc/) ; [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/).
 
 * work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/).
+
+
+
+### books
+
+[Springer](https://link.springer.com/brands/springer)
+
+[AstroBaki_CosmologyLectures](https://casper.ssl.berkeley.edu/astrobaki/index.php/Cosmology)
+
+[Cosmology\_links](https://jila.colorado.edu/~ajsh/bh/cosmology.html)
+    * of Andrew Hamilton’s Homepage
+
+[Xray_cluster](https://ned.ipac.caltech.edu/level5/March02/Sarazin/Sarazin_contents.html)
+    * "X-RAY EMISSION FROM CLUSTERS OF GALAXIES", author: Craig L. Sarazin
+
+[vaporia](http://astro.vaporia.com/index.html)
+
+[NED_Level5](https://ned.ipac.caltech.edu/level5/)
+    * A Knowledgebase for Extragalactic Astronomy and Cosmology
+
+[Radio astronomy](https://eff100mwiki.mpifr-bonn.mpg.de/doku.php?id=information_for_astronomers%3Auser_guide%3Afurther_material_papers_tech_memos_etc&s%5B%5D=rfi#radio_frequency_interference_rfi)
+
+[AstroBaki](https://casper.astro.berkeley.edu/astrobaki/index.php/Main_Page)
+
+[PythonBK](http://old.sebug.net/paper/python/index.html)
+
+[SFR](https://github.com/KIAA-AGN/AGN-group-meeting/wiki/References-for-Measuring-SFRs-in-Galaxies)
+
+
+[SED\_G](https://ned.ipac.caltech.edu/level5/March10/Walcher/Walcher_contents.html)
+    * "FITTING THE INTEGRATED SPECTRAL ENERGY DISTRIBUTIONS OF GALAXIES", 2010, Author: Jakob Walcher, Brent Groves, Tamás Budavári, Daniel Dale
+
+[FRBTheoryWiki](https://frbtheorycat.org/index.php/Main_Page)
+
+[科大报告](https://www.koushare.com/space/329298/home)
+
+[FormationofGalaxyCluster](http://ned.ipac.caltech.edu/level5/Sept12/Kravtsov/Kravtsov_contents.html)
+    * "FORMATION OF GALAXY CLUSTERS", author: Andrey Kravtsov, and Stefano Borgani 
+
+[astro2020\_book](https://nap.nationalacademies.org/read/26141)
+    * book "Pathways to Discovery in Astronomy and Astrophysics for the 2020s (2023)"
+
+[Voyage2050_whitePaper](https://www.cosmos.esa.int/web/voyage-2050/white-papers)
+
+[book_Lib](https://libgen.li/)
+    * Library to search digital books and academic journals
