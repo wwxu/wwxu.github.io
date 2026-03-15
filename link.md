@@ -46,9 +46,7 @@
 
 ### books
 
-[Springer](https://link.springer.com/brands/springer)
-
-[AstroBaki_CosmologyLectures](https://casper.ssl.berkeley.edu/astrobaki/index.php/Cosmology)
+[Springer](https://link.springer.com/brands/springer), [vaporia](http://astro.vaporia.com/index.html),[AstroBaki_CosmologyLectures](https://casper.ssl.berkeley.edu/astrobaki/index.php/Cosmology), [Radio astronomy](https://eff100mwiki.mpifr-bonn.mpg.de/doku.php?id=information_for_astronomers%3Auser_guide%3Afurther_material_papers_tech_memos_etc&s%5B%5D=rfi#radio_frequency_interference_rfi), [FRBTheoryWiki](https://frbtheorycat.org/index.php/Main_Page), [Voyage2050_whitePaper](https://www.cosmos.esa.int/web/voyage-2050/white-papers), [AstroBaki](https://casper.astro.berkeley.edu/astrobaki/index.php/Main_Page), [PythonBK](http://old.sebug.net/paper/python/index.html), [SFR](https://github.com/KIAA-AGN/AGN-group-meeting/wiki/References-for-Measuring-SFRs-in-Galaxies), [科大报告](https://www.koushare.com/space/329298/home),
 
 [Cosmology\_links](https://jila.colorado.edu/~ajsh/bh/cosmology.html)
     * of Andrew Hamilton’s Homepage
@@ -56,26 +54,11 @@
 [Xray_cluster](https://ned.ipac.caltech.edu/level5/March02/Sarazin/Sarazin_contents.html)
     * "X-RAY EMISSION FROM CLUSTERS OF GALAXIES", author: Craig L. Sarazin
 
-[vaporia](http://astro.vaporia.com/index.html)
-
 [NED_Level5](https://ned.ipac.caltech.edu/level5/)
     * A Knowledgebase for Extragalactic Astronomy and Cosmology
 
-[Radio astronomy](https://eff100mwiki.mpifr-bonn.mpg.de/doku.php?id=information_for_astronomers%3Auser_guide%3Afurther_material_papers_tech_memos_etc&s%5B%5D=rfi#radio_frequency_interference_rfi)
-
-[AstroBaki](https://casper.astro.berkeley.edu/astrobaki/index.php/Main_Page)
-
-[PythonBK](http://old.sebug.net/paper/python/index.html)
-
-[SFR](https://github.com/KIAA-AGN/AGN-group-meeting/wiki/References-for-Measuring-SFRs-in-Galaxies)
-
-
 [SED\_G](https://ned.ipac.caltech.edu/level5/March10/Walcher/Walcher_contents.html)
     * "FITTING THE INTEGRATED SPECTRAL ENERGY DISTRIBUTIONS OF GALAXIES", 2010, Author: Jakob Walcher, Brent Groves, Tamás Budavári, Daniel Dale
-
-[FRBTheoryWiki](https://frbtheorycat.org/index.php/Main_Page)
-
-[科大报告](https://www.koushare.com/space/329298/home)
 
 [FormationofGalaxyCluster](http://ned.ipac.caltech.edu/level5/Sept12/Kravtsov/Kravtsov_contents.html)
     * "FORMATION OF GALAXY CLUSTERS", author: Andrey Kravtsov, and Stefano Borgani 
@@ -83,7 +66,6 @@
 [astro2020\_book](https://nap.nationalacademies.org/read/26141)
     * book "Pathways to Discovery in Astronomy and Astrophysics for the 2020s (2023)"
 
-[Voyage2050_whitePaper](https://www.cosmos.esa.int/web/voyage-2050/white-papers)
-
 [book_Lib](https://libgen.li/)
     * Library to search digital books and academic journals
+
