@@ -51,7 +51,7 @@
 [科学网](http://blog.sciencenet.cn/),
 [AstroBackyard](https://astrobackyard.com).
 
-* Institutes: [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/), [NASA](https://www.nasa.gov/), [NRAO](https://science.nrao.edu/), [ESO](https://www.eso.org/public/).
+* Institutes: [NAOC](https://nao.cas.cn/), [PMO](http://www.pmo.cas.cn/), [SHAO](http://www.shao.ac.cn/), [NASA](https://www.nasa.gov/), [NRAO](https://science.nrao.edu/), [ESO](https://www.eso.org/public/), [CTIO](http://www.ctio.noao.edu/noao/)， [NOAO](http://datalab.noao.edu/analysis.php)， [Astro_EPFL](https://www.epfl.ch/labs/lastro/)，
 
 * Observations:
   * radio: [lofar](https://www.lofar-surveys.org/), [alma](https://www.eso.org/public/teles-instr/alma/), [ska](https://www.skatelescope.org/the-ska-project/), [fast](https://fast.bao.ac.cn/)
@@ -59,7 +59,6 @@
   * X-ray: [xmm-newton](https://www.cosmos.esa.int/web/xmm-newton/home),  [chandra](https://chandra.harvard.edu/), [erosita](https://erosita.mpe.mpg.de/), [hxmt](http://hxmtweb.ihep.ac.cn/), [ep](https://ep.bao.ac.cn/ep/), [hubs](http://hubs.phys.tsinghua.edu.cn/)
   * Gamma-ray: [fermi](https://fermi.gsfc.nasa.gov/),  [lhaaso](http://english.ihep.cas.cn/lhaaso/), [dampe](http://pmo.cas.cn/dampe/kycg/)
   * Gravitational Wave: [ligo](https://www.ligo.org/), [lisa](https://lisa.nasa.gov/).
-
 
 * Lectures:
 [SHAOlectures](https://www.koushare.com/topic-hd/i/aar),
@@ -93,7 +92,7 @@
 [PythonBK](http://old.sebug.net/paper/python/index.html),
 [douban](https://www.douban.com/doulist/112364872/).
 
-* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skirt][https://skirt.ugent.be/root/_home.html].
+* Simulations: [illustristng](https://www.tng-project.org/), [eagle](http://eagle.strw.leidenuniv.nl/), [fire](https://fire.northwestern.edu/), [simba](http://simba.roe.ac.uk/), [skirt](https://skirt.ugent.be/root/_home.html).
 
 * Tools: [Overleaf](https://www.overleaf.com/project), [Sharelatex](https://sharelatex.cstcloud.cn/project),
 [WebPlotDigitizer](https://apps.automeris.io/wpd/), [web-to-ScanCode](https://cli.im/), [Equ-to-plot](https://www.desmos.com/calculator), 
@@ -124,19 +123,15 @@
 [Mac-data-tranfer](https://support.apple.com/zh-cn/HT204350),
 [ChatGPT](https://openai.com/blog/chatgpt/),
 [Preview-note-recover](https://julihoh.github.io/pdf_annotation_fix/web-app/dist/index.html),
-
-
-
 [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh),
 [通义](https://tongyi.aliyun.com/qianwen/),
 [熊猫搜索](https://xmsoushu.com/?ref=itotii#/),
 [鸠摩搜索](https://www.jiumodiary.com).
 
 
-* Coding: [Scipy](https://www.scipy.org/), [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/),[Matplot](https://matplotlib.org/),
-* 
+* Code: [Scipy](https://www.scipy.org/), [Cloudy](https://gitlab.nublado.org/cloudy/cloudy), [Atropy](https://www.astropy.org/), [AtomDB](http://www.atomdb.org/),[Matplot](https://matplotlib.org/),
 
-
-* work: [HNU-HPC](https://www.htu.edu.cn/info/main.htm), [Sugon](https://ac.sugon.com/); [jwc.edu](https://jwc.htu.edu.cn/).
+* Astro-physics researcher:
+  
 
 
