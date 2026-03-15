@@ -69,8 +69,7 @@
 [FormationofGalaxyCluster](http://ned.ipac.caltech.edu/level5/Sept12/Kravtsov/Kravtsov_contents.html),
 `    * "FORMATION OF GALAXY CLUSTERS", author: Andrey Kravtsov, and Stefano Borgani `
 [astro2020\_book](https://nap.nationalacademies.org/read/26141),
-<!     * book "Pathways to Discovery in Astronomy and Astrophysics for the 2020s (2023)">
+[//]: (     * book "Pathways to Discovery in Astronomy and Astrophysics for the 2020s (2023)")
 [book_Lib](https://libgen.li/),
-<!    * Library to search digital books and academic journals >
-
+[//]: (   * Library to search digital books and academic journals )
 
