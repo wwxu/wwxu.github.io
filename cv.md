@@ -5,6 +5,16 @@ title: ""
 
 Please check the whole CV file [PDF](files/CV_wwxu.pdf). 
 ===
+Find me on INSPIRE: 
+Find me on [ORCID](https://orcid.org/0000-0002-9587-6683)
+Find me on [Academia](https://gucas.academia.edu/weiweixu) 
+Find me on [scopus](https://www.scopus.com/authid/detail.uri?authorId=57199721818)
+Find me on [Google Scholar](https://scholar.google.com/citations?user=RSjVHT4AAAAJ&hl=en)
+
+
+
+
+Web of Science ResearcherID: LKL-1088-2024
 
 ---
 
