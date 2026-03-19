@@ -133,5 +133,12 @@
 
 * Astro-physics researcher:
   
+ * galaxy cluster, X-ray:  
+ [StefanoEttori](http://pico.oabo.inaf.it/~settori/Site/Welcome.html), [2](https://orcid.org/0000-0003-4117-8617); 
+ [AngLiu刘昂](https://github.com/liuang1), [2](https://orcid.org/0000-0003-3501-0359); 
+ [Thomas H. Reiprich](https://astro.uni-bonn.de/~reiprich/), [2](https://inspirehep.net/authors/1027479?ui-citation-summary=true),
+ [dynaverse](https://dynaverse.astro.uni-koeln.de); 
+ [GerritSchellenberger](https://orcid.org/0000-0002-4962-0740)
+
 
 
