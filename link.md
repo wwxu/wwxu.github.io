@@ -126,7 +126,8 @@
 [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh),
 [通义](https://tongyi.aliyun.com/qianwen/),
 [熊猫搜索](https://xmsoushu.com/?ref=itotii#/),
-[鸠摩搜索](https://www.jiumodiary.com).
+[鸠摩搜索](https://www.jiumodiary.com),
+[SpecZoo: AI-Platform for Spec](https://arxiv.org/pdf/2603.19555).
 
 ### database
 [TGCat](http://tgcat.mit.edu/tgSearch.php?t=T)
