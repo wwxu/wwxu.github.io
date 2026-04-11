@@ -10,7 +10,7 @@ Check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6R
 * As of Mar. 2026, 17 published papers in total, 197 citations.
      * 8 first-author/corresponding-author published papers;
      * 9 co-authored published papers;
-     * 2 first-author papers under review.
+     * 2 co-author papers under review.
 
 ---
  
