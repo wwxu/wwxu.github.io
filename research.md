@@ -72,7 +72,7 @@ Optical identification galaxy clusters
 * We present an efficient method for detecting galaxy clusters by combining the WISE data with 
 SuperCOSMOS and 2MASS data. After performing star-galaxy separation, we calculate the 
 number of companion galaxies around the galaxies with photometric redshifts previously 
-estimated by the SuperCOSMOS, 2MASS and WISE data. A scaled richness Rscal >=􏰊 30 is set as 
+estimated by the SuperCOSMOS, 2MASS and WISE data. A scaled richness Rscal >= 30 is set as 
 a criterion to identify clusters. From a sky area of 275 deg2 of the Sloan Digital Sky 
 Survey Stripe 82 region, we identify 302 clusters in the redshift range of 0.1-0.35, 247 
 (82%) of which are previously known SDSS clusters. (Xu ea. 2014)</br>
