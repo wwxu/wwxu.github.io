@@ -1,6 +1,6 @@
 ### paper note 
 
-## arxiv0420
+## arxiv2026.04.17
 
 * [An Improved Fit for Linear Halo Bias at High Redshift](https://arxiv.org/abs/2604.14312), [code: Halo-matter cross correlation (cf_hm) and matter auto-correlation (cf_mm) for GUREFT boxes.](https://github.com/KuanWang-Astro/GUREFT_CF/tree/main)
   
@@ -12,7 +12,7 @@
 * [FAST and Dark: A catalogue of Dark Galaxy Candidates within 50 Mpc](https://arxiv.org/abs/2604.14699)
  ** a catalogue of 70 dark galaxy candidates (DGCs) within 50 Mpc from FASHI 
 
-## arxiv0410,
+## arxiv2026.04.10,
 * [Weak-lensing Analysis of Intracluster Filaments in Abell 2744: Matched-filter Scans and Stepwise 2D Tracing](https://arxiv.org/abs/2604.07445)
 
 * [NeutralHydrogen in the Shapley Supercluster Core I: Environmental Effects on Gas Contentand Galaxy Evolution](https://arxiv.org/abs/2604.08402)
