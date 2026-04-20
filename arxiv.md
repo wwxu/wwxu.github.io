@@ -1,5 +1,9 @@
 ### paper note 
 
+## arxiv0420
+
+* [An Improved Fit for Linear Halo Bias at High Redshift](https://arxiv.org/abs/2604.14312), [code: Halo-matter cross correlation (cf_hm) and matter auto-correlation (cf_mm) for GUREFT boxes.](https://github.com/KuanWang-Astro/GUREFT_CF/tree/main)
+* 
 
 ## arxiv0410,
 * [Weak-lensing Analysis of Intracluster Filaments in Abell 2744: Matched-filter Scans and Stepwise 2D Tracing](https://arxiv.org/abs/2604.07445)
