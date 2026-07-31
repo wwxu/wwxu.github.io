@@ -15,7 +15,6 @@ Check at [This Link](https://ui.adsabs.harvard.edu/public-libraries/fMJ6fgQvTo6R
 ======
 
 * Identification of X-ray extended galaxy clusters:
-
     * XMM-SERVS X-ray eXtended Galaxy Cluster (XVXGC) catalog (Xu, W., Jiang L., et al. , 2024, a&a, 691, A300)  [link](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.300X/abstract)
     * Catalog of X-ray-selected extended galaxy clusters from the ROSAT All-Sky Survey (RXGCC) (Xu, W., et al., 2022, a&a, 658, A59)  [link](https://ui.adsabs.harvard.edu/abs/2022A%26A...658A..59X/abstract)
     * A New X-ray Selected Sample of Very Extended Galaxy Groups from the ROSAT All-Sky Survey (Xu, W., Ramos-Ceja, M. E., et al. 2018, a&a, a162, 17)   [link](https://ui.adsabs.harvard.edu/abs/2018A%26A...619A.162X/abstract)
