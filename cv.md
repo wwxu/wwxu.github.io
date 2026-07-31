@@ -63,9 +63,13 @@ Academic Service
 
 Observation proposals
 ======
+* EP - FXT, 30ksec, ID: Cycle3-0015, approved,, 2026, PI 
+* EP - FXT, 50ksec, ID: Cycle3-0101, approved,, 2026, PI
 * EP - FXT, 30ksec, ID: Cycle2-0045, approved, 2025, PI
+* EP - FXT, 120ksec, ID: Cycle2-0079, approved, 2025, Co-I
 * AstroSat AO-12, 119ksec, ID: A10-065, observed, 2021, PI
 * XMM-Newton AO-19, 60ksec, ID:86388, observed, 2019, Co-I
+* 【submitted】Chandra, 50ksec, submitted, 2026, PI
 
 ---
 
@@ -83,18 +87,21 @@ Honors and awards
 
 Selected talks
 ======
-* eROSITA & HUBS Scientific Exploitation Workshop 2024, Mar. 2024, 20min talk, “Detection of X-ray extended clusters  & Research of dark matter halos”
-* NAOC workshop of  physics of galaxy clusters, July 2024, 45min talk of “X-ray galaxy clusters with low surface-brightness profile”
-* Tsinghua DOA lunch talk, Nov. 2024, 40min talk, “The research of dark matter halo with galaxy-galaxy lensing method”
-* Xtalk online seminars, Dec. 2024, 40min talk,  “Detection of X-ray extended galaxy clusters with ROSAT and XMM-Newton data”
-* The KooGiG-Junior forum (KIAA Forum on Gas in Galaxies for Early Career Scientists), online, Nov. 2021, talk (15min) 
-* 2020 Jing-Guang-Xia Astrophysics Meeting, Xiamen, Dec. 2020 (10min)
-* Annual Meeting of Chinese Astronomical Society, Delingha, Oct. 2019 (15min)
-* KIAA lunch talk, Dec. 2018, talk (45min)
-* German eROSITA Consortium meeting, Ringberg, Oct. 2018, talk (15+5 min)
-* NAOC Seminar, Dec. 2017, talk (45+15 min)
-* NJU Seminar, Dec. 2017, talk (45+15 min)
-
+* 【Invited talk】Seminar of School of Physical Science and Technology, Ningbo University, July 2025, 45min
+* 【Invited talk】Seminar, State Key Laboratory of Particle Astrophysics, Institute of High Energy Physics, CAS, Apr. 2025, 45min
+* 【Invited talk】NAOC workshop of  physics of galaxy clusters, July 2024, 45min
+* 【Invited talk】 Tsinghua DOA lunch talk, Nov. 2024, 40min
+* 【Invited talk】 Xtalk online seminars, Dec. 2024, 40min
+* 【Invited talk】 KIAA lunch talk, Dec. 2018, 45min
+* 【Invited talk】 NAOC Seminar, Dec. 2017, 45 min
+* 【Invited talk】 NJU Seminar, Dec. 2017, 45 min
+* [Conference talk] Annual Meeting of CSST, July 2026, 15min
+* [Conference talk] eROSITA & HUBS Scientific Exploitation Workshop 2024, Mar. 2024, 20min
+* [Conference talk] The KooGiG-Junior forum (KIAA Forum on Gas in Galaxies for Early Career Scientists), online, Nov. 2021, 15min
+* [Conference talk] 2020 Jing-Guang-Xia Astrophysics Meeting, Xiamen, Dec. 2020, 10min
+* [Conference talk] Annual Meeting of Chinese Astronomical Society, Delingha, Oct. 2019 15min
+* [Conference talk] German eROSITA Consortium meeting, Ringberg, Oct. 2018, 15min
+* 
 ---
 
 Tutorials 
