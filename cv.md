@@ -3,7 +3,7 @@ title: ""
 ---
 
 
-Check the whole CV file [(English version PDF)](files/CV_weiweixu.pdf), [(中文PDF)](files/简历-徐伟伟.pdf). 
+Check the whole CV file [(English version)](files/CV_weiweixu.pdf), [中文版)](files/简历-徐伟伟.pdf). 
 ===
 Find me on [ORCID](https://orcid.org/0000-0002-9587-6683),[Google Scholar](https://scholar.google.com/citations?user=RSjVHT4AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Weiwei-Xu-15). 
 
@@ -12,40 +12,28 @@ Find me on [ORCID](https://orcid.org/0000-0002-9587-6683),[Google Scholar](https
 
 Education
 ======
-* Sep. 2014 – Jan. 2019: PhD in astrophysics
-    * NAOC, Beijing, China
+* Sep. 2014 – Jan. 2019: PhD in astrophysics,NAOC, Beijing, China
     * Supervisor: Prof. Lijun Gou
-* Jul. 2016 – Nov. 2018: visiting PhD student
-    * the Argelander-Institut für Astronomie, the University of Bonn (AIfA, Uni-Bonn), Bonn, Germany 
+* Jul. 2016 – Nov. 2018: visiting PhD student,the Argelander-Institut für Astronomie, the University of Bonn (AIfA, Uni-Bonn), Bonn, Germany 
     * Supervisor: Prof. Thomas Reiprich
-* Sep. 2011 – Jun. 2014: Master in Astrophysics
-    * NAOC, Beijing, China
+* Sep. 2011 – Jun. 2014: Master in Astrophysics, NAOC, Beijing, China
     * Supervisor: Prof. Jinlin Han 
-* Sep. 2007 - Jun. 2011 : Bachelor in applied physics
-    * Shandong University (SDU), Weihai, China
+* Sep. 2007 - Jun. 2011 : Bachelor in applied physics, Shandong University (SDU), Weihai, China
 
 ---
 
 Work experience
 ======
-* May 2022- Now: Assistant researcher
-    * National Astronomical Observatories, Chinese Academy of Sciences (NAOC), Beijing, China
+* May 2022- Now: Assistant researcher, NAOC, Beijing, China
     * Collaborated advisor: Prof. Ran Li
-* May 2019-Apr. 2022: Post-doc 
-    * Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China
+* May 2019-Apr. 2022: Post-doc, Kavli Institute for Astronomy and Astrophysics, Peking University (KIAA-PKU), Beijing, China
     * Collaborated advisor: Prof. Linhua Jiang
 
 ---
 
 Research interest
 ======
-* galaxy clusters 
-* weak lensing
-* dark matter halo
-* cosmology
-* X-ray astronomy
-* optical observation
-* galaxy
+* galaxy clusters, weak lensing, dark matter halo, cosmology, X-ray astronomy, optical observation, galaxy
 
 ---
 
