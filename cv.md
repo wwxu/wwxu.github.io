@@ -5,8 +5,9 @@ title: ""
 
 Check the whole CV file [PDF](files/CV_weiweixu.pdf), [中文简历](files/简历-徐伟伟.pdf). 
 ===
-Find me on [ORCID](https://orcid.org/0000-0002-9587-6683), [Academia](https://gucas.academia.edu/weiweixu), [scopus](https://www.scopus.com/authid/detail.uri?authorId=57199721818), [Google Scholar](https://scholar.google.com/citations?user=RSjVHT4AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Weiwei-Xu-15). 
+Find me on [ORCID](https://orcid.org/0000-0002-9587-6683),[Google Scholar](https://scholar.google.com/citations?user=RSjVHT4AAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Weiwei-Xu-15). 
 
+%% [Academia](https://gucas.academia.edu/weiweixu), [scopus](https://www.scopus.com/authid/detail.uri?authorId=57199721818), 
 ---
 
 Education
