@@ -33,11 +33,11 @@ author:
   email            : "wwxu@pku.edu.cn" 
 
   # Academic websites
-  academia         : "https://gucas.academia.edu/weiweixu"
+  ##academia         : "https://gucas.academia.edu/weiweixu"
   googlescholar    : "https://scholar.google.com/citations?user=RSjVHT4AAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-9587-6683"
   researchgate     : "https://www.researchgate.net/profile/Weiwei-Xu-15"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57199721818"
+  ###scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57199721818"
 
 
   # Repositories and software development
